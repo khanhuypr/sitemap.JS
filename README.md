@@ -1,0 +1,2 @@
+# sitemap.JS
+SiteMap blogger
